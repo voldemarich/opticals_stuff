@@ -82,3 +82,6 @@ def findPeople(img_name):
 
 for i in os.listdir(path_to_read):
     findPeople(os.path.join(path_to_read, i))  # передаем данные в нашу функцию
+
+
+# this is example of commit just for Loycerton
